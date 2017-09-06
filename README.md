@@ -1,13 +1,14 @@
-#FFMPEG SAMPLES FOR Windows
+FFMPEG SAMPLES FOR Windows
+==================
 
 
-Introduction:
+Introduction
 ==================
 
 It is introduction to ffmpeg samples for windows, Sharing some of the sample codes for ffmpeg on Windows
 
 
-Prerequisites:
+Prerequisites
 ==================
 
 Download ffmpeg and install for windows from [here](http://ffmpeg.org/download.html)  
